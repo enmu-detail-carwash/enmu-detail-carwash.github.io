@@ -29,3 +29,5 @@ condition that they want.
 * Special car user - will be interested in our services that we offer, if we show
 that we do amazing work, and go above and beyond the expectations, and offer a price
 that beats out our competitors.
+
+* David Schmith is changing
