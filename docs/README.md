@@ -30,4 +30,3 @@ condition that they want.
 that we do amazing work, and go above and beyond the expectations, and offer a price
 that beats out our competitors.
 
-* David Schmith is changing
